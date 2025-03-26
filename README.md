@@ -8,7 +8,7 @@
   />
 </h1>
 
-"I'm a Computer Science student at Carleton University who loves figuring out how things work and building useful applications. I'm exploring frontend, backend, cloud, and embedded systems always learning and creating along the way.
+I'm a Computer Science student at Carleton University who loves figuring out how things work and building useful applications. I'm exploring frontend, backend, cloud, and embedded systems always learning and creating along the way.
 
 - 🔧 I’m currently working on:
   - [Job Simulator](https://github.com/Dan-dev101/Job-Simulator): A web-based job simulator where you complete tasks, meet deadlines, and manage workloads.
