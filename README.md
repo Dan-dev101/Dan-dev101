@@ -55,7 +55,7 @@ I'm a Computer Science student at Carleton University who loves figuring out how
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dant2000/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
       alt="LinkedIn Badge"
     />
   </a>
