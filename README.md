@@ -57,6 +57,7 @@ I'm a Computer Science student at Carleton University who loves figuring out how
     <img
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
       alt="LinkedIn Badge"
+      height="25"
     />
   </a>
 </div>
